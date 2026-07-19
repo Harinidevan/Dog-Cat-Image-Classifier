@@ -76,7 +76,7 @@ https://www.kaggle.com/datasets/bhavikjikadara/dog-and-cat-classification-datase
 ### Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Dog-Cat-Image-Classifier.git
+git clone https://github.com/Harinidevan/Dog-Cat-Image-Classifier.git
 ```
 
 ### Navigate to the project folder
